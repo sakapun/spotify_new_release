@@ -1,0 +1,728 @@
+[
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+		},
+		"followers": {
+			"href": null,
+			"total": 7489122
+		},
+		"genres": [
+			"hip hop",
+			"rap",
+			"west coast rap"
+		],
+		"href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+		"id": "2YZyLoL8N0Wb9xBt1NhZWg",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/106c76de27f7e556ebb43947aadd1228862d6cd7",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/70780996aaeb7cbab1cd71d2039cd0b7521a53e1",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/df44832488c25cc6a387272cf881fd9b98122795",
+				"width": 160
+			}
+		],
+		"name": "Kendrick Lamar",
+		"popularity": 96,
+		"type": "artist",
+		"uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
+		"timing": 1
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
+		},
+		"followers": {
+			"href": null,
+			"total": 299388
+		},
+		"genres": [
+			"escape room",
+			"hip hop",
+			"pop rap",
+			"rap"
+		],
+		"href": "https://api.spotify.com/v1/artists/5wPoxI5si3eJsYYwyXV4Wi",
+		"id": "5wPoxI5si3eJsYYwyXV4Wi",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/b589c353b05ad9aa1db13ca2cc04dc16e034b4d5",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/9d6fcbc28d1a2d3e299c201d326eb4b180fa2cdf",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/4df4878d146818b7d86b952a5376e1afd5257128",
+				"width": 160
+			}
+		],
+		"name": "N.E.R.D",
+		"popularity": 77,
+		"type": "artist",
+		"uri": "spotify:artist:5wPoxI5si3eJsYYwyXV4Wi",
+		"timing": 1
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+		},
+		"followers": {
+			"href": null,
+			"total": 5688552
+		},
+		"genres": [
+			"brostep",
+			"complextro",
+			"edm",
+			"electro",
+			"electro house"
+		],
+		"href": "https://api.spotify.com/v1/artists/5he5w2lnU9x7JFhnwcekXX",
+		"id": "5he5w2lnU9x7JFhnwcekXX",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/dfc464638a476db61668e4f0d0e028226530b92f",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/72ab5780d4ff00545135320a8a926f24b66a1572",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/b503d38ef805d6f3ff618558106f82234710875b",
+				"width": 160
+			}
+		],
+		"name": "Skrillex",
+		"popularity": 84,
+		"type": "artist",
+		"uri": "spotify:artist:5he5w2lnU9x7JFhnwcekXX",
+		"timing": 1
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+		},
+		"followers": {
+			"href": null,
+			"total": 1040310
+		},
+		"genres": [
+			"alternative dance",
+			"alternative rock",
+			"brooklyn indie",
+			"chamber pop",
+			"dance-punk",
+			"folk-pop",
+			"garage rock",
+			"indie folk",
+			"indie pop",
+			"indie rock",
+			"indietronica",
+			"modern rock",
+			"neo-psychedelic",
+			"new rave",
+			"shimmer pop",
+			"stomp and holler",
+			"synthpop"
+		],
+		"href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+		"id": "5BvJzeQpmsdsFp4HGUYUEx",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/d65be20a50485b08efd0ae23a73a2c9eaaa53c21",
+				"width": 480
+			},
+			{
+				"height": 267,
+				"url": "https://i.scdn.co/image/ac86c637f96421f4869bf3ef30a328f74bc9361f",
+				"width": 200
+			},
+			{
+				"height": 85,
+				"url": "https://i.scdn.co/image/99888a0518c1291aef6a13311ee5484db4856969",
+				"width": 64
+			}
+		],
+		"name": "Vampire Weekend",
+		"popularity": 71,
+		"type": "artist",
+		"uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx",
+		"timing": 1
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+		},
+		"followers": {
+			"href": null,
+			"total": 712419
+		},
+		"genres": [
+			"alternative dance",
+			"indie pop",
+			"indie poptimism",
+			"indietronica",
+			"metropopolis",
+			"modern rock",
+			"pop",
+			"shimmer pop",
+			"shiver pop",
+			"synthpop",
+			"tropical house"
+		],
+		"href": "https://api.spotify.com/v1/artists/3CjlHNtplJyTf9npxaPl5w",
+		"id": "3CjlHNtplJyTf9npxaPl5w",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/e6c530da12f920f3b8d2d57be7782f9d49af16c3",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/64a6c54b7bea1c2c314da545c3f5048d28f48c3b",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/a5b058c5287ade15994f668a46f5d7f782dae97e",
+				"width": 160
+			}
+		],
+		"name": "CHVRCHES",
+		"popularity": 70,
+		"type": "artist",
+		"uri": "spotify:artist:3CjlHNtplJyTf9npxaPl5w",
+		"timing": 1
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+		},
+		"followers": {
+			"href": null,
+			"total": 1878028
+		},
+		"genres": [
+			"neo mellow",
+			"pop rock"
+		],
+		"href": "https://api.spotify.com/v1/artists/3GBPw9NK25X1Wt2OUvOwY3",
+		"id": "3GBPw9NK25X1Wt2OUvOwY3",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/71f76e2a7c52cabc26ed9af7acc664724d5e0023",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/18233e3307d5f8559f3ce72e71f4497b8d336b63",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/1167d2ed944ec63bcd986515518e774ea15ceb63",
+				"width": 160
+			}
+		],
+		"name": "Jack Johnson",
+		"popularity": 81,
+		"type": "artist",
+		"uri": "spotify:artist:3GBPw9NK25X1Wt2OUvOwY3",
+		"timing": 1
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+		},
+		"followers": {
+			"href": null,
+			"total": 1054275
+		},
+		"genres": [
+			"alternative dance",
+			"alternative rock",
+			"brooklyn indie",
+			"garage rock",
+			"indie pop",
+			"indie rock",
+			"indietronica",
+			"modern rock",
+			"neo-psychedelic",
+			"new rave",
+			"rock",
+			"synthpop"
+		],
+		"href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+		"id": "0SwO7SWeDHJijQ3XNS7xEE",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/552cc07e487a1dc7fd91d680824086b4daff8fc8",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/ab886ef7e2e12c425cbc9a260f1dc85c43b3ae5e",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/fe9e1b05b386021510110ee714a56bc18811e0b4",
+				"width": 160
+			}
+		],
+		"name": "MGMT",
+		"popularity": 76,
+		"type": "artist",
+		"uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE",
+		"timing": 1
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+		},
+		"followers": {
+			"href": null,
+			"total": 665664
+		},
+		"genres": [
+			"chillwave",
+			"edm",
+			"ninja",
+			"tropical house"
+		],
+		"href": "https://api.spotify.com/v1/artists/21mKp7DqtSNHhCAU2ugvUw",
+		"id": "21mKp7DqtSNHhCAU2ugvUw",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/74a2eb1ad773180e5fa2a6b17154fe054631a73f",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/f929b767371f05208b331298e3d61dc2edb57d01",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/20115a0354fa0e2220f1e1df797bf0cccc7ed494",
+				"width": 160
+			}
+		],
+		"name": "ODESZA",
+		"popularity": 79,
+		"type": "artist",
+		"uri": "spotify:artist:21mKp7DqtSNHhCAU2ugvUw",
+		"timing": 1
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+		},
+		"followers": {
+			"href": null,
+			"total": 737262
+		},
+		"genres": [
+			"dance pop",
+			"edm",
+			"gauze pop",
+			"house",
+			"pop",
+			"tropical house"
+		],
+		"href": "https://api.spotify.com/v1/artists/5vBSrE1xujD2FXYRarbAXc",
+		"id": "5vBSrE1xujD2FXYRarbAXc",
+		"images": [
+			{
+				"height": 563,
+				"url": "https://i.scdn.co/image/4c3380a27af9d846dae62ffbd6f63e7ef7aa83d1",
+				"width": 1000
+			},
+			{
+				"height": 360,
+				"url": "https://i.scdn.co/image/d71e9a3211e076b562ffd4c2a09fdc83d115c397",
+				"width": 640
+			},
+			{
+				"height": 113,
+				"url": "https://i.scdn.co/image/75f8f532c8511c871b90333d8d92377b066c380e",
+				"width": 200
+			},
+			{
+				"height": 36,
+				"url": "https://i.scdn.co/image/e4016b140e7e5f7e60a389e0406631403d3acb5d",
+				"width": 64
+			}
+		],
+		"name": "Years & Years",
+		"popularity": 72,
+		"type": "artist",
+		"uri": "spotify:artist:5vBSrE1xujD2FXYRarbAXc",
+		"timing": 1
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+		},
+		"followers": {
+			"href": null,
+			"total": 521123
+		},
+		"genres": [
+			"deep indie r&b",
+			"escape room",
+			"hip hop",
+			"indie r&b",
+			"la indie",
+			"neo soul",
+			"rap"
+		],
+		"href": "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+		"id": "3jK9MiCrA42lLAdMGUZpwa",
+		"images": [
+			{
+				"height": 1000,
+				"url": "https://i.scdn.co/image/a99ebe0ba641143a3d55b482219f2023672fb76e",
+				"width": 1000
+			},
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/c69f03bd955ca194bef15fdf5044feee529d7473",
+				"width": 640
+			},
+			{
+				"height": 200,
+				"url": "https://i.scdn.co/image/4e0b047bec9654e33a909b44a6e945a71121e230",
+				"width": 200
+			},
+			{
+				"height": 64,
+				"url": "https://i.scdn.co/image/98681bcdef8a24dcb2e19ef3b750f8238b827357",
+				"width": 64
+			}
+		],
+		"name": "Anderson .Paak",
+		"popularity": 76,
+		"type": "artist",
+		"uri": "spotify:artist:3jK9MiCrA42lLAdMGUZpwa",
+		"timing": 1
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
+		},
+		"followers": {
+			"href": null,
+			"total": 15688
+		},
+		"genres": [
+			"chicago soul",
+			"memphis soul",
+			"motown",
+			"soul",
+			"soul blues",
+			"soul christmas",
+			"southern soul"
+		],
+		"href": "https://api.spotify.com/v1/artists/1QAGLCom3FHTTiuRFsjzOj",
+		"id": "1QAGLCom3FHTTiuRFsjzOj",
+		"images": [
+			{
+				"height": 1000,
+				"url": "https://i.scdn.co/image/fa043c0acdf02c23c449e1f9659c4d8f510c283f",
+				"width": 1000
+			},
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/1bdfadba6e63409c7a04544934c5e415acb461e3",
+				"width": 640
+			},
+			{
+				"height": 200,
+				"url": "https://i.scdn.co/image/27493d09a8a3639ec9d0211531805d76c93c5341",
+				"width": 200
+			},
+			{
+				"height": 68,
+				"url": "https://i.scdn.co/image/9c9cacd74e9e803433de600d5da11cc99c7351c3",
+				"width": 64
+			}
+		],
+		"name": "Carla Thomas",
+		"popularity": 55,
+		"type": "artist",
+		"uri": "spotify:artist:1QAGLCom3FHTTiuRFsjzOj",
+		"timing": 1
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+		},
+		"followers": {
+			"href": null,
+			"total": 66862
+		},
+		"genres": [
+			"bluegrass",
+			"deep new americana",
+			"jam band",
+			"modern blues",
+			"new americana",
+			"progressive bluegrass",
+			"roots rock",
+			"stomp and holler"
+		],
+		"href": "https://api.spotify.com/v1/artists/33bzrYoIWLx5uox3y0VtHn",
+		"id": "33bzrYoIWLx5uox3y0VtHn",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/b944006cb5f4f395036ca4dd755700dff8f7b721",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/88d7c964f1f64b1252a390161edf8eabdf28d71b",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/ed90c2bb93651648f64d5d80384d28155ca869ee",
+				"width": 160
+			}
+		],
+		"name": "Greensky Bluegrass",
+		"popularity": 58,
+		"type": "artist",
+		"uri": "spotify:artist:33bzrYoIWLx5uox3y0VtHn",
+		"timing": 1
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/2szQRWh2F0RUs9bkbepwok"
+		},
+		"followers": {
+			"href": null,
+			"total": 14455
+		},
+		"genres": [],
+		"href": "https://api.spotify.com/v1/artists/2szQRWh2F0RUs9bkbepwok",
+		"id": "2szQRWh2F0RUs9bkbepwok",
+		"images": [
+			{
+				"height": 1487,
+				"url": "https://i.scdn.co/image/c8dfd6e4d81cdce9fa79cf911e60eb1a0a9716ef",
+				"width": 1000
+			},
+			{
+				"height": 952,
+				"url": "https://i.scdn.co/image/10caacd87b91046057774c53783cebcea9543c21",
+				"width": 640
+			},
+			{
+				"height": 297,
+				"url": "https://i.scdn.co/image/4013f5af23e4ea6ee371934a38d874cbf0681e91",
+				"width": 200
+			},
+			{
+				"height": 95,
+				"url": "https://i.scdn.co/image/c1fc20cc190f4f4722f5e9daeccbc41683510917",
+				"width": 64
+			}
+		],
+		"name": "Hothouse Flowers",
+		"popularity": 43,
+		"type": "artist",
+		"uri": "spotify:artist:2szQRWh2F0RUs9bkbepwok",
+		"timing": 1
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+		},
+		"followers": {
+			"href": null,
+			"total": 1470318
+		},
+		"genres": [
+			"neo mellow",
+			"pop",
+			"pop rock",
+			"post-teen pop",
+			"viral pop"
+		],
+		"href": "https://api.spotify.com/v1/artists/4EzkuveR9pLvDVFNx6foYD",
+		"id": "4EzkuveR9pLvDVFNx6foYD",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/51e72b278a79bb105f6e01a78aa13c5eaff5e3ca",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/7cdade65aca32c8f142c0584e7188a4b324f3664",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/553892097e8b1a28f1a63ae8ad755912509f9d2f",
+				"width": 160
+			}
+		],
+		"name": "James Bay",
+		"popularity": 78,
+		"type": "artist",
+		"uri": "spotify:artist:4EzkuveR9pLvDVFNx6foYD",
+		"timing": 1
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+		},
+		"followers": {
+			"href": null,
+			"total": 30800
+		},
+		"genres": [],
+		"href": "https://api.spotify.com/v1/artists/0Wkm45quqfx3NepJpXDvwE",
+		"id": "0Wkm45quqfx3NepJpXDvwE",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/4f41b6f5c835c39add734c8b95dcd9e57174fcbb",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/18c6aaa3fa4608ab16c8a0c2fa70a88490be2b4a",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/379466e739dea9c748d78ebb629089304cb87587",
+				"width": 160
+			}
+		],
+		"name": "Superorganism",
+		"popularity": 63,
+		"type": "artist",
+		"uri": "spotify:artist:0Wkm45quqfx3NepJpXDvwE",
+		"timing": 1
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+		},
+		"followers": {
+			"href": null,
+			"total": 127856
+		},
+		"genres": [
+			"alternative dance",
+			"anti-folk",
+			"art pop",
+			"chamber pop",
+			"chamber psych",
+			"chillwave",
+			"escape room",
+			"folk-pop",
+			"freak folk",
+			"indie folk",
+			"indie pop",
+			"indie r&b",
+			"indie rock",
+			"indietronica",
+			"lo-fi",
+			"modern rock",
+			"neo-psychedelic",
+			"new rave",
+			"noise pop",
+			"shimmer pop",
+			"stomp and holler"
+		],
+		"href": "https://api.spotify.com/v1/artists/0asVlqTLu3TimnYVyY5Jxi",
+		"id": "0asVlqTLu3TimnYVyY5Jxi",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/ed2a22b75200c695c51cde72788bb22961547966",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/7f9e8950f7171b1ac27f4ca9b734f42dd9f243d9",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/e69f2083a9a0012f0bb81d9dc2c8d7c1f6ba806a",
+				"width": 160
+			}
+		],
+		"name": "Tune-Yards",
+		"popularity": 60,
+		"type": "artist",
+		"uri": "spotify:artist:0asVlqTLu3TimnYVyY5Jxi",
+		"timing": 1
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/0KU2ChEGGGmbBX4CycAA9z"
+		},
+		"followers": {
+			"href": null,
+			"total": 79
+		},
+		"genres": [
+			"western swing"
+		],
+		"href": "https://api.spotify.com/v1/artists/0KU2ChEGGGmbBX4CycAA9z",
+		"id": "0KU2ChEGGGmbBX4CycAA9z",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/bf12da488620b08b0f6194bd3e8a4fb25e899ca2",
+				"width": 640
+			},
+			{
+				"height": 300,
+				"url": "https://i.scdn.co/image/590396ad5c3cf4388bc5a252605deb8b515e1b72",
+				"width": 300
+			},
+			{
+				"height": 64,
+				"url": "https://i.scdn.co/image/54c7e314042f5f333f115e3558c8d25001403c84",
+				"width": 64
+			}
+		],
+		"name": "Tex Williams & His Western Caravan",
+		"popularity": 6,
+		"type": "artist",
+		"uri": "spotify:artist:0KU2ChEGGGmbBX4CycAA9z",
+		"timing": 1
+	}
+]
