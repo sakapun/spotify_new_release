@@ -1,0 +1,1143 @@
+[
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+		},
+		"followers": {
+			"href": null,
+			"total": 2154496
+		},
+		"genres": [
+			"album rock",
+			"classic rock",
+			"folk",
+			"folk christmas",
+			"folk rock",
+			"folk-pop",
+			"mellow gold",
+			"rock",
+			"roots rock",
+			"singer-songwriter"
+		],
+		"href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX",
+		"id": "74ASZWbe4lXaubB36ztrGX",
+		"images": [
+			{
+				"height": 1000,
+				"url": "https://i.scdn.co/image/ef9b0b5b8083cf68958daa46382e309bf771b39f",
+				"width": 1000
+			},
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/4ea239473b9865d6ba0b8894d071a5e7120ca46c",
+				"width": 640
+			},
+			{
+				"height": 200,
+				"url": "https://i.scdn.co/image/30c7d5720f7bee4c343994aef223457fb8b2d459",
+				"width": 200
+			},
+			{
+				"height": 64,
+				"url": "https://i.scdn.co/image/d70603640e0ba2aaac569577b391929fb71ae742",
+				"width": 64
+			}
+		],
+		"name": "Bob Dylan",
+		"popularity": 76,
+		"type": "artist",
+		"uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+		},
+		"followers": {
+			"href": null,
+			"total": 8008450
+		},
+		"genres": [
+			"hip hop",
+			"rap",
+			"west coast rap"
+		],
+		"href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+		"id": "2YZyLoL8N0Wb9xBt1NhZWg",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/3a836196bfb341f736c7fe2704fb75de53f8dfbb",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/5259c0496329b3f608a1ae0edb799cd2f8451acc",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/b772a78d4cb192268d6f601a78f21044c17d6dda",
+				"width": 160
+			}
+		],
+		"name": "Kendrick Lamar",
+		"popularity": 97,
+		"type": "artist",
+		"uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
+		},
+		"followers": {
+			"href": null,
+			"total": 315288
+		},
+		"genres": [
+			"hip hop",
+			"pop",
+			"pop rap"
+		],
+		"href": "https://api.spotify.com/v1/artists/5wPoxI5si3eJsYYwyXV4Wi",
+		"id": "5wPoxI5si3eJsYYwyXV4Wi",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/b589c353b05ad9aa1db13ca2cc04dc16e034b4d5",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/9d6fcbc28d1a2d3e299c201d326eb4b180fa2cdf",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/4df4878d146818b7d86b952a5376e1afd5257128",
+				"width": 160
+			}
+		],
+		"name": "N.E.R.D",
+		"popularity": 74,
+		"type": "artist",
+		"uri": "spotify:artist:5wPoxI5si3eJsYYwyXV4Wi"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+		},
+		"followers": {
+			"href": null,
+			"total": 5840578
+		},
+		"genres": [
+			"brostep",
+			"complextro",
+			"edm",
+			"electro",
+			"electro house"
+		],
+		"href": "https://api.spotify.com/v1/artists/5he5w2lnU9x7JFhnwcekXX",
+		"id": "5he5w2lnU9x7JFhnwcekXX",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/dfc464638a476db61668e4f0d0e028226530b92f",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/72ab5780d4ff00545135320a8a926f24b66a1572",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/b503d38ef805d6f3ff618558106f82234710875b",
+				"width": 160
+			}
+		],
+		"name": "Skrillex",
+		"popularity": 83,
+		"type": "artist",
+		"uri": "spotify:artist:5he5w2lnU9x7JFhnwcekXX"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+		},
+		"followers": {
+			"href": null,
+			"total": 1059884
+		},
+		"genres": [
+			"brooklyn indie",
+			"folk-pop",
+			"garage rock",
+			"indie folk",
+			"indie pop",
+			"indie rock",
+			"indietronica",
+			"modern rock",
+			"neo-psychedelic",
+			"synthpop"
+		],
+		"href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+		"id": "5BvJzeQpmsdsFp4HGUYUEx",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/d65be20a50485b08efd0ae23a73a2c9eaaa53c21",
+				"width": 480
+			},
+			{
+				"height": 267,
+				"url": "https://i.scdn.co/image/ac86c637f96421f4869bf3ef30a328f74bc9361f",
+				"width": 200
+			},
+			{
+				"height": 85,
+				"url": "https://i.scdn.co/image/99888a0518c1291aef6a13311ee5484db4856969",
+				"width": 64
+			}
+		],
+		"name": "Vampire Weekend",
+		"popularity": 70,
+		"type": "artist",
+		"uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+		},
+		"followers": {
+			"href": null,
+			"total": 50364
+		},
+		"genres": [
+			"anime",
+			"j-dance",
+			"j-pop",
+			"j-rap",
+			"j-rock",
+			"japanese city pop",
+			"japanese r&b"
+		],
+		"href": "https://api.spotify.com/v1/artists/0hCWVMGGQnRVfDgmhwLIxq",
+		"id": "0hCWVMGGQnRVfDgmhwLIxq",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/928496d1f29b4249756bad6999a9c22785d70d2f",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/78831f5f32ccf369541ff7ce2f85367f6acfe4ab",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/85e3056e1ba478931d5fb60073662619e84e9546",
+				"width": 160
+			}
+		],
+		"name": "Sakanaction",
+		"popularity": 53,
+		"type": "artist",
+		"uri": "spotify:artist:0hCWVMGGQnRVfDgmhwLIxq"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
+		},
+		"followers": {
+			"href": null,
+			"total": 10001
+		},
+		"genres": [
+			"j-rap",
+			"j-rock"
+		],
+		"href": "https://api.spotify.com/v1/artists/65ZxfiilUIYWNEpDjrHaM5",
+		"id": "65ZxfiilUIYWNEpDjrHaM5",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/2ae9559025ac4fdc13173f0aebbce8531810cb25",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/7e48dee0a20ea98a3282e890f712e943acf95953",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/7934ddc2fc6030f0abb1af0197049e5d59078efa",
+				"width": 160
+			}
+		],
+		"name": "BRAHMAN",
+		"popularity": 37,
+		"type": "artist",
+		"uri": "spotify:artist:65ZxfiilUIYWNEpDjrHaM5"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+		},
+		"followers": {
+			"href": null,
+			"total": 734281
+		},
+		"genres": [
+			"indie pop",
+			"indietronica",
+			"metropopolis",
+			"modern rock",
+			"pop",
+			"shimmer pop",
+			"synthpop"
+		],
+		"href": "https://api.spotify.com/v1/artists/3CjlHNtplJyTf9npxaPl5w",
+		"id": "3CjlHNtplJyTf9npxaPl5w",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/e6c530da12f920f3b8d2d57be7782f9d49af16c3",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/64a6c54b7bea1c2c314da545c3f5048d28f48c3b",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/a5b058c5287ade15994f668a46f5d7f782dae97e",
+				"width": 160
+			}
+		],
+		"name": "CHVRCHES",
+		"popularity": 71,
+		"type": "artist",
+		"uri": "spotify:artist:3CjlHNtplJyTf9npxaPl5w"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+		},
+		"followers": {
+			"href": null,
+			"total": 135470
+		},
+		"genres": [
+			"alternative rock",
+			"art pop",
+			"brooklyn indie",
+			"chamber pop",
+			"chillwave",
+			"dance-punk",
+			"dream pop",
+			"folk-pop",
+			"freak folk",
+			"indie folk",
+			"indie pop",
+			"indie r&b",
+			"indie rock",
+			"indietronica",
+			"lo-fi",
+			"modern rock",
+			"neo-psychedelic",
+			"new rave",
+			"new weird america",
+			"noise pop",
+			"shimmer pop",
+			"singer-songwriter",
+			"stomp and holler"
+		],
+		"href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+		"id": "5VF0YkVLeVD4ytyiyVSIiF",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/ede8a7ad1db96e604196287afa7c4247c7585650",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/3291143f96094576daf68a66c16a216e1e2cc424",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/d8c7d0c49fe30edc092a040fa4ddefadd898c7c9",
+				"width": 160
+			}
+		],
+		"name": "Dirty Projectors",
+		"popularity": 57,
+		"type": "artist",
+		"uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+		},
+		"followers": {
+			"href": null,
+			"total": 69436
+		},
+		"genres": [
+			"bluegrass",
+			"jam band",
+			"modern blues",
+			"new americana",
+			"progressive bluegrass",
+			"roots rock"
+		],
+		"href": "https://api.spotify.com/v1/artists/33bzrYoIWLx5uox3y0VtHn",
+		"id": "33bzrYoIWLx5uox3y0VtHn",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/c3b19ff71daf85e643a5528ec34ced76bc5d9aff",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/721b612757d47e5564a04f34471e3eb5a56b1610",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/1e108ddc8b1926cbb2dc1dbeeaacdb6c369b54a9",
+				"width": 160
+			}
+		],
+		"name": "Greensky Bluegrass",
+		"popularity": 57,
+		"type": "artist",
+		"uri": "spotify:artist:33bzrYoIWLx5uox3y0VtHn"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+		},
+		"followers": {
+			"href": null,
+			"total": 1915782
+		},
+		"genres": [
+			"neo mellow"
+		],
+		"href": "https://api.spotify.com/v1/artists/3GBPw9NK25X1Wt2OUvOwY3",
+		"id": "3GBPw9NK25X1Wt2OUvOwY3",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/71f76e2a7c52cabc26ed9af7acc664724d5e0023",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/18233e3307d5f8559f3ce72e71f4497b8d336b63",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/1167d2ed944ec63bcd986515518e774ea15ceb63",
+				"width": 160
+			}
+		],
+		"name": "Jack Johnson",
+		"popularity": 80,
+		"type": "artist",
+		"uri": "spotify:artist:3GBPw9NK25X1Wt2OUvOwY3"
+	},
+	{
+		"name": "マキシマム ザ ホルモン"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+		},
+		"followers": {
+			"href": null,
+			"total": 1098950
+		},
+		"genres": [
+			"alternative dance",
+			"alternative rock",
+			"brooklyn indie",
+			"garage rock",
+			"indie pop",
+			"indie rock",
+			"indietronica",
+			"modern rock",
+			"neo-psychedelic"
+		],
+		"href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+		"id": "0SwO7SWeDHJijQ3XNS7xEE",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/552cc07e487a1dc7fd91d680824086b4daff8fc8",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/ab886ef7e2e12c425cbc9a260f1dc85c43b3ae5e",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/fe9e1b05b386021510110ee714a56bc18811e0b4",
+				"width": 160
+			}
+		],
+		"name": "MGMT",
+		"popularity": 77,
+		"type": "artist",
+		"uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+		},
+		"followers": {
+			"href": null,
+			"total": 682387
+		},
+		"genres": [
+			"chillwave",
+			"ninja"
+		],
+		"href": "https://api.spotify.com/v1/artists/21mKp7DqtSNHhCAU2ugvUw",
+		"id": "21mKp7DqtSNHhCAU2ugvUw",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/74a2eb1ad773180e5fa2a6b17154fe054631a73f",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/f929b767371f05208b331298e3d61dc2edb57d01",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/20115a0354fa0e2220f1e1df797bf0cccc7ed494",
+				"width": 160
+			}
+		],
+		"name": "ODESZA",
+		"popularity": 77,
+		"type": "artist",
+		"uri": "spotify:artist:21mKp7DqtSNHhCAU2ugvUw"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+		},
+		"followers": {
+			"href": null,
+			"total": 754026
+		},
+		"genres": [
+			"gauze pop",
+			"pop",
+			"tropical house"
+		],
+		"href": "https://api.spotify.com/v1/artists/5vBSrE1xujD2FXYRarbAXc",
+		"id": "5vBSrE1xujD2FXYRarbAXc",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/9a445dec27434045ae435c15dba76457f6f4f24c",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/3971c192ab2108fff735d7cf5ef8932b6dbe4829",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/179e1ae602c611e45f167eedbc26f65964365fe6",
+				"width": 160
+			}
+		],
+		"name": "Years & Years",
+		"popularity": 73,
+		"type": "artist",
+		"uri": "spotify:artist:5vBSrE1xujD2FXYRarbAXc"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+		},
+		"followers": {
+			"href": null,
+			"total": 555756
+		},
+		"genres": [
+			"deep indie r&b",
+			"escape room",
+			"hip hop",
+			"indie r&b",
+			"la indie",
+			"neo soul",
+			"rap"
+		],
+		"href": "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+		"id": "3jK9MiCrA42lLAdMGUZpwa",
+		"images": [
+			{
+				"height": 1000,
+				"url": "https://i.scdn.co/image/a99ebe0ba641143a3d55b482219f2023672fb76e",
+				"width": 1000
+			},
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/c69f03bd955ca194bef15fdf5044feee529d7473",
+				"width": 640
+			},
+			{
+				"height": 200,
+				"url": "https://i.scdn.co/image/4e0b047bec9654e33a909b44a6e945a71121e230",
+				"width": 200
+			},
+			{
+				"height": 64,
+				"url": "https://i.scdn.co/image/98681bcdef8a24dcb2e19ef3b750f8238b827357",
+				"width": 64
+			}
+		],
+		"name": "Anderson .Paak",
+		"popularity": 78,
+		"type": "artist",
+		"uri": "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+		},
+		"followers": {
+			"href": null,
+			"total": 44658
+		},
+		"genres": [
+			"deep indie r&b",
+			"indie r&b"
+		],
+		"href": "https://api.spotify.com/v1/artists/0WjtdWS6su0f3jrW9aqEHl",
+		"id": "0WjtdWS6su0f3jrW9aqEHl",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/5d4f5235a84d494c6d50b3f0647fe33704467a63",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/b018f3594a80197ebadc9b2b0ea94519b0fb2656",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/ce03089af03f18bbd6695c48a23f01cd7d0b383e",
+				"width": 160
+			}
+		],
+		"name": "Berhana",
+		"popularity": 62,
+		"type": "artist",
+		"uri": "spotify:artist:0WjtdWS6su0f3jrW9aqEHl"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
+		},
+		"followers": {
+			"href": null,
+			"total": 16688
+		},
+		"genres": [
+			"chicago soul",
+			"memphis soul",
+			"soul",
+			"soul blues",
+			"soul christmas",
+			"southern soul"
+		],
+		"href": "https://api.spotify.com/v1/artists/1QAGLCom3FHTTiuRFsjzOj",
+		"id": "1QAGLCom3FHTTiuRFsjzOj",
+		"images": [
+			{
+				"height": 1000,
+				"url": "https://i.scdn.co/image/fa043c0acdf02c23c449e1f9659c4d8f510c283f",
+				"width": 1000
+			},
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/1bdfadba6e63409c7a04544934c5e415acb461e3",
+				"width": 640
+			},
+			{
+				"height": 212,
+				"url": "https://i.scdn.co/image/7b4e2ab73250d3d2c27bf678e12530a25789b93f",
+				"width": 200
+			},
+			{
+				"height": 68,
+				"url": "https://i.scdn.co/image/9c9cacd74e9e803433de600d5da11cc99c7351c3",
+				"width": 64
+			}
+		],
+		"name": "Carla Thomas",
+		"popularity": 54,
+		"type": "artist",
+		"uri": "spotify:artist:1QAGLCom3FHTTiuRFsjzOj"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+		},
+		"followers": {
+			"href": null,
+			"total": 4414
+		},
+		"genres": [
+			"j-indie",
+			"j-rock"
+		],
+		"href": "https://api.spotify.com/v1/artists/0aqPTOZlKG6ltJHv7BNlsm",
+		"id": "0aqPTOZlKG6ltJHv7BNlsm",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/453970991e142b082a34452627f03040b2c922bf",
+				"width": 640
+			},
+			{
+				"height": 300,
+				"url": "https://i.scdn.co/image/2adc0dfa0749b9ffe610c01eeac2d77f25bf5ae3",
+				"width": 300
+			},
+			{
+				"height": 64,
+				"url": "https://i.scdn.co/image/64973db3d6985d561dd8ea6bfe9c935764314d50",
+				"width": 64
+			}
+		],
+		"name": "go!go!vanillas",
+		"popularity": 32,
+		"type": "artist",
+		"uri": "spotify:artist:0aqPTOZlKG6ltJHv7BNlsm"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/2szQRWh2F0RUs9bkbepwok"
+		},
+		"followers": {
+			"href": null,
+			"total": 15085
+		},
+		"genres": [],
+		"href": "https://api.spotify.com/v1/artists/2szQRWh2F0RUs9bkbepwok",
+		"id": "2szQRWh2F0RUs9bkbepwok",
+		"images": [
+			{
+				"height": 1487,
+				"url": "https://i.scdn.co/image/c8dfd6e4d81cdce9fa79cf911e60eb1a0a9716ef",
+				"width": 1000
+			},
+			{
+				"height": 952,
+				"url": "https://i.scdn.co/image/10caacd87b91046057774c53783cebcea9543c21",
+				"width": 640
+			},
+			{
+				"height": 297,
+				"url": "https://i.scdn.co/image/4013f5af23e4ea6ee371934a38d874cbf0681e91",
+				"width": 200
+			},
+			{
+				"height": 95,
+				"url": "https://i.scdn.co/image/c1fc20cc190f4f4722f5e9daeccbc41683510917",
+				"width": 64
+			}
+		],
+		"name": "Hothouse Flowers",
+		"popularity": 42,
+		"type": "artist",
+		"uri": "spotify:artist:2szQRWh2F0RUs9bkbepwok"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+		},
+		"followers": {
+			"href": null,
+			"total": 1567068
+		},
+		"genres": [
+			"neo mellow",
+			"pop"
+		],
+		"href": "https://api.spotify.com/v1/artists/4EzkuveR9pLvDVFNx6foYD",
+		"id": "4EzkuveR9pLvDVFNx6foYD",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/51e72b278a79bb105f6e01a78aa13c5eaff5e3ca",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/7cdade65aca32c8f142c0584e7188a4b324f3664",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/553892097e8b1a28f1a63ae8ad755912509f9d2f",
+				"width": 160
+			}
+		],
+		"name": "James Bay",
+		"popularity": 79,
+		"type": "artist",
+		"uri": "spotify:artist:4EzkuveR9pLvDVFNx6foYD"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+		},
+		"followers": {
+			"href": null,
+			"total": 167757
+		},
+		"genres": [
+			"ambient",
+			"compositional ambient",
+			"electronic",
+			"fourth world",
+			"post rock"
+		],
+		"href": "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+		"id": "7yxi31szvlbwvKq9dYOmFI",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/9336872a5d46a21ab5d8a354292d15e35f6f63ca",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/32feaa5dd166daa88001a8da6ac1ac053102ff33",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/66b88e8ee85c89fd22796eeeba4a4ef7d2abd3ba",
+				"width": 160
+			}
+		],
+		"name": "Jon Hopkins",
+		"popularity": 65,
+		"type": "artist",
+		"uri": "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+		},
+		"followers": {
+			"href": null,
+			"total": 729758
+		},
+		"genres": [],
+		"href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+		"id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/e3d3e28c604a1c86e796e0d2aa7d4dc249f62e6f",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/2be26e2a2f49947fb61c31984f27bb1497319dad",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/7806af9f06526b3ca2e33ecae7cb02c8c6bcc221",
+				"width": 160
+			}
+		],
+		"name": "Mac DeMarco",
+		"popularity": 75,
+		"type": "artist",
+		"uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
+		},
+		"followers": {
+			"href": null,
+			"total": 2585
+		},
+		"genres": [],
+		"href": "https://api.spotify.com/v1/artists/6VhZSXucPwAlDJD1j2Zayk",
+		"id": "6VhZSXucPwAlDJD1j2Zayk",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/d1f6eaa51a86c2b7040f32b4b882c4d8260c2585",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/e839c21001d717163ee11260c8bff5cf22522c32",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/f64c971a5fc992ae888a221fea61dbd092f8500e",
+				"width": 160
+			}
+		],
+		"name": "Nariaki Obukuro",
+		"popularity": 37,
+		"type": "artist",
+		"uri": "spotify:artist:6VhZSXucPwAlDJD1j2Zayk"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/2YQc5vx5VbiKcc3oudaHoW"
+		},
+		"followers": {
+			"href": null,
+			"total": 246
+		},
+		"genres": [],
+		"href": "https://api.spotify.com/v1/artists/2YQc5vx5VbiKcc3oudaHoW",
+		"id": "2YQc5vx5VbiKcc3oudaHoW",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/08ab078d1ffc1f07763afae906e44955eae9f006",
+				"width": 640
+			},
+			{
+				"height": 300,
+				"url": "https://i.scdn.co/image/a3f877742a0d8e90885c14d61c0d5ed938f0f2ed",
+				"width": 300
+			},
+			{
+				"height": 64,
+				"url": "https://i.scdn.co/image/611fe80f04e3e80228a21948935f778d984b2f1e",
+				"width": 64
+			}
+		],
+		"name": "Rancho Aparte",
+		"popularity": 14,
+		"type": "artist",
+		"uri": "spotify:artist:2YQc5vx5VbiKcc3oudaHoW"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
+		},
+		"followers": {
+			"href": null,
+			"total": 88538
+		},
+		"genres": [
+			"j-dance",
+			"j-rap",
+			"japanese city pop",
+			"japanese r&b"
+		],
+		"href": "https://api.spotify.com/v1/artists/0O0hxUrO2PKxZknken3R24",
+		"id": "0O0hxUrO2PKxZknken3R24",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/8fa4ddd878f1d6842758d84b2c55b3decf311163",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/4308a53080875acf2e603ca93e6edd58bc8a3702",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/845c5e7dffa6f573ded2f0da8926c709064e9089",
+				"width": 160
+			}
+		],
+		"name": "Suchmos",
+		"popularity": 54,
+		"type": "artist",
+		"uri": "spotify:artist:0O0hxUrO2PKxZknken3R24"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+		},
+		"followers": {
+			"href": null,
+			"total": 45522
+		},
+		"genres": [],
+		"href": "https://api.spotify.com/v1/artists/0Wkm45quqfx3NepJpXDvwE",
+		"id": "0Wkm45quqfx3NepJpXDvwE",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/4f41b6f5c835c39add734c8b95dcd9e57174fcbb",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/18c6aaa3fa4608ab16c8a0c2fa70a88490be2b4a",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/379466e739dea9c748d78ebb629089304cb87587",
+				"width": 160
+			}
+		],
+		"name": "Superorganism",
+		"popularity": 68,
+		"type": "artist",
+		"uri": "spotify:artist:0Wkm45quqfx3NepJpXDvwE"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+		},
+		"followers": {
+			"href": null,
+			"total": 131258
+		},
+		"genres": [
+			"art pop",
+			"chamber pop",
+			"chamber psych",
+			"folk-pop",
+			"freak folk",
+			"indie folk",
+			"indie pop",
+			"indie r&b",
+			"indie rock",
+			"indietronica",
+			"modern rock",
+			"neo-psychedelic",
+			"shimmer pop",
+			"stomp and holler"
+		],
+		"href": "https://api.spotify.com/v1/artists/0asVlqTLu3TimnYVyY5Jxi",
+		"id": "0asVlqTLu3TimnYVyY5Jxi",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/ed2a22b75200c695c51cde72788bb22961547966",
+				"width": 640
+			},
+			{
+				"height": 320,
+				"url": "https://i.scdn.co/image/7f9e8950f7171b1ac27f4ca9b734f42dd9f243d9",
+				"width": 320
+			},
+			{
+				"height": 160,
+				"url": "https://i.scdn.co/image/e69f2083a9a0012f0bb81d9dc2c8d7c1f6ba806a",
+				"width": 160
+			}
+		],
+		"name": "Tune-Yards",
+		"popularity": 57,
+		"type": "artist",
+		"uri": "spotify:artist:0asVlqTLu3TimnYVyY5Jxi"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/0z4FY376uhecutd5Adph8s"
+		},
+		"followers": {
+			"href": null,
+			"total": 8075
+		},
+		"genres": [
+			"j-dance",
+			"j-rock",
+			"japanese city pop"
+		],
+		"href": "https://api.spotify.com/v1/artists/0z4FY376uhecutd5Adph8s",
+		"id": "0z4FY376uhecutd5Adph8s",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/be82e1112142cdb196afd66422d905fb0de6f408",
+				"width": 640
+			},
+			{
+				"height": 300,
+				"url": "https://i.scdn.co/image/9bb405d134dd72c5792aba755f406f82848fb94f",
+				"width": 300
+			},
+			{
+				"height": 64,
+				"url": "https://i.scdn.co/image/a2918c8d02d692b84ed2cc9f91cc3ec570b70acf",
+				"width": 64
+			}
+		],
+		"name": "UNICORN",
+		"popularity": 37,
+		"type": "artist",
+		"uri": "spotify:artist:0z4FY376uhecutd5Adph8s"
+	},
+	{
+		"external_urls": {
+			"spotify": "https://open.spotify.com/artist/0KU2ChEGGGmbBX4CycAA9z"
+		},
+		"followers": {
+			"href": null,
+			"total": 82
+		},
+		"genres": [
+			"western swing"
+		],
+		"href": "https://api.spotify.com/v1/artists/0KU2ChEGGGmbBX4CycAA9z",
+		"id": "0KU2ChEGGGmbBX4CycAA9z",
+		"images": [
+			{
+				"height": 640,
+				"url": "https://i.scdn.co/image/bf86fa8312369167d9f171f247d81fdfaa4b81a4",
+				"width": 640
+			},
+			{
+				"height": 300,
+				"url": "https://i.scdn.co/image/1e6cff880dd034fa80c5953037951387939ee852",
+				"width": 300
+			},
+			{
+				"height": 64,
+				"url": "https://i.scdn.co/image/6729d8d0140808548f3683e0fcadb1854f627b30",
+				"width": 64
+			}
+		],
+		"name": "Tex Williams & His Western Caravan",
+		"popularity": 7,
+		"type": "artist",
+		"uri": "spotify:artist:0KU2ChEGGGmbBX4CycAA9z"
+	}
+]
